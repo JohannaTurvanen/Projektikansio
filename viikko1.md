@@ -5,7 +5,7 @@
 
 ```Asustelen Oulussa. Teen tällä hetkellä monimuototutkintoa töideni ohella.```
 
-	[Git sivuni](https://github.com/JohannaTurvanen/)
+	[Git](https://github.com/JohannaTurvanen/)
  ---
 
 ## Kiinnostuksen kohteet
@@ -17,13 +17,14 @@
 
    	![Hieno koira](https://tse2.mm.bing.net/th/id/OIP.CvThWw8K2AHjL8Y6R7aS5QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
    ---
-   
+
 ### Työkokemus
 
-| Syntax | Description |
+| | |
 | ----------- | ----------- |
-| Header | Työpaikat |
-| Paragraph | Olen työskennellyt Halpa-hallissa, K-Marketissa, Pihla-Ikkunoilla ja Postilla.
-| Paragraph | Nykyisin työskentelen Pohteella.
+| | Työpaikat |
+| Aiempi työkokemus | Olen työskennellyt Halpa-hallissa, K-Marketissa, Pihla-Ikkunoilla ja Postilla.
+| Nykyinen työtilenne | Nykyisin työskentelen Pohteella.
+
 
 > Minulla on laaja työkokemus eri aloilta.
