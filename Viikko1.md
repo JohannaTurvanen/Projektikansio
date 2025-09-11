@@ -1,0 +1,23 @@
+# H1 Perustiedot
+**Johanna Turvanen**
+*32-vuotta*
+```Asustelen Oulussa. Teen tällä hetkellä monimuototutkintoa töideni ohella.```
+	[title](https://github.com/JohannaTurvanen/)
+ ---
+## H2 Kiinnostuksen kohteet
+1. Eläimet
+2. Urheilu
+   - kuntosali
+   - koripallo 
+4. Ruoka
+   	![Hieno koira](https://tse2.mm.bing.net/th/id/OIP.CvThWw8K2AHjL8Y6R7aS5QAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+   ---
+### H3 Työkokemus
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Työpaikat |
+| Paragraph | Olen työskennellyt Halpa-hallissa, K-Marketissa, Pihla-Ikkunoilla ja Postilla.
+| Paragraph | Nykyisin työskentelen Pohteella.
+
+> Minulla on laaja työkokemus eri aloilta.
